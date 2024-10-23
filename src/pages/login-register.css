@@ -1,0 +1,29 @@
+.container form {
+    background-color: transparent;
+    backdrop-filter: blur(0.6rem);
+    border: 0.1rem solid #ffffff;
+    border-radius: 0.3rem;
+    text-align: center;
+    width: auto;
+    padding: 1.4rem 2rem 1.8rem 2rem;
+    animation: SwipeDown 0.3s ease-in-out;
+}
+
+.container form h1 {
+    color: #ffffff;
+    font-weight: 500;
+    font-size: 2.7rem;
+    word-break: break-word;
+}
+
+@keyframes SwipeDown {
+    from {
+        transform: translateY(-100%);
+        opacity: -10%;
+    }
+
+    to {
+        transform: translateY(0);
+        opacity: 100%;
+    }
+}

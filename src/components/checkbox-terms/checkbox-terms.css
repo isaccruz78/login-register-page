@@ -1,0 +1,18 @@
+.checkbox-terms {
+    padding: 0.4rem 2.7rem 0.9rem 2.7rem;
+}
+
+.checkbox-terms .checkbox-terms-input label {
+    display: flex;
+    justify-content: center;
+    gap: 0.2rem;
+}
+
+.checkbox-terms .checkbox-terms-input label p {
+    color: #ffffff;
+}
+
+.checkbox-terms .checkbox-terms-input label a {
+    text-decoration: none;
+    color: #a9a9ff;
+}

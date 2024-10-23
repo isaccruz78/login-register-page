@@ -1,0 +1,18 @@
+.checkbox-remenber {
+    display: flex;
+    gap: 1rem;
+    padding: 0.4rem 0rem 0.9rem 0rem;
+}
+
+.checkbox-remenber a{
+    color: #a9a9ff;
+}
+
+.checkbox-remenber .checkbox-remenber-input label {
+    display: flex;
+    gap: 0.2rem;
+}
+
+.checkbox-remenber .checkbox-remenber-input label p {
+    color: #ffffff;
+}

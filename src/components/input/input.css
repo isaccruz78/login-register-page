@@ -1,0 +1,45 @@
+.input-container .input-box {
+    display: flex;
+    align-items: center;
+    padding: 0.8rem 0rem 0rem 0rem;
+}
+
+.input-container .input-box input {
+    width: 100%;
+    padding: 1rem 0.7rem 1rem 2.5rem;
+    background-color: transparent;
+    border: 0.1rem solid #ffffff;
+    border-radius: 0.3rem;
+    color: #ffffff;
+    outline: none;
+    font-size: 1rem;
+}
+
+.input-container .input-box input::placeholder {
+    color: #ffffff;
+}
+
+.input-container .input-box input:focus {
+    border-color: #1774d1;
+    transition: 300ms ease;
+}
+
+.input-container .input-box input::-ms-reveal {
+    filter: invert(100%);
+}
+
+input:-webkit-autofill,
+input:-webkit-autofill:focus {
+    transition: background-color 0s 600000s, color 0s 600000s !important;
+}
+
+.input-container .input-box #icon {
+    position: absolute;
+    font-size: 1.3rem;
+    color: #ffffff;
+    left: 2.7rem;
+}
+
+#msg-error-input {
+    color: #f90000;
+}
