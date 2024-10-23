@@ -29,3 +29,11 @@ Esta aplicação de cadastro e login foi desenvolvida com React, utilizando o Yu
 ### Isac Cruz (isaccruz78) - Estudante da Universidade Estácio de Sá
 
 [![LINKEDIN](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/isaccruz)
+
+## Imagens
+
+![imglogindesk](https://github.com/user-attachments/assets/fcdc64a6-810e-48ca-8c81-dc0307410857)
+![imgresgisdesk](https://github.com/user-attachments/assets/4e59364f-91be-4ef8-abd9-ea4c752ab57c)
+![imgloginmobile](https://github.com/user-attachments/assets/009fc9c1-fd55-4aac-aa70-358900eba620)
+![imgregismobile](https://github.com/user-attachments/assets/576d401c-4025-4162-9d0c-9f77a131985e)
+
