@@ -2,9 +2,12 @@
 
 Esta aplicação de cadastro e login foi desenvolvida com React, utilizando o Yup para validação de formulários e conectada a um banco de dados MySQL. O sistema realiza login e permite o cadastro de novos usuários, com a parte de servidor desenvolvida em Node.js. No login, é necessário fornecer o e-mail e a senha, enquanto no cadastro são requeridos o nome de usuário, e-mail e senha. O projeto é totalmente responsivo, adaptando-se a diferentes tamanhos de tela, como de dispositivos móveis, tablets e desktops.
 
-## Principais Ferramentas Utilizadas
+## Principais Tecnologias Utilizadas
 
 - React
+- JavaScript
+- HTML5
+- CSS3
 - Yup
 - Node
 - MySQL
