@@ -4,12 +4,12 @@ Esta aplicação de cadastro e login foi desenvolvida com React, utilizando o Yu
 
 ## Principais Tecnologias Utilizadas
 
-- React
+- React JS
 - JavaScript
 - HTML5
 - CSS3
 - Yup
-- Node
+- Node JS
 - MySQL
 - Vite
 
